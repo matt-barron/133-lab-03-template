@@ -12,8 +12,15 @@ TEST_CASE("Sample tests"){
 }
 
 // Write test cases here
+TEST_CASE("Task A"){
+  // task A tests go here
+}
 
+TEST_CASE("Task B"){
+  // task B tests go here
+}
 
+// etc.
 
 
 
