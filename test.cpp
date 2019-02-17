@@ -3,8 +3,6 @@
 #include "funcs.h"
 #include "doctest.h"
 
-// Write test cases here
-
 TEST_CASE("Sample tests"){
   std::string result;
   result=greet("Tom");
@@ -12,9 +10,8 @@ TEST_CASE("Sample tests"){
   CHECK(result.compare("Hello Tom!")==0);
   
 }
-TEST_CASE("Testing"){
-}
 
+// Write test cases here
 
 
 
