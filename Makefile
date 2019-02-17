@@ -1,8 +1,8 @@
 main: main.o funcs.o
-	g++ -o main main.o funcso
+	g++ -o main main.o funcs.o
 
 test: test.o funcs.o
-	g++ -o test tests.o funcs.o
+	g++ -o test test.o funcs.o
 
 test.o: test.cpp funcs.h
 

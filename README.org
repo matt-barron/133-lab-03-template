@@ -4,5 +4,14 @@
 
 * Lab 03
 
+* File structure:
+- README.org - this file. fill out the top and use it for notes
+- Makefile
+- main.cpp - main driver
+- funcs.h / funcs.cpp -- add your functions here.
+- test.cpp - add your tests
+- doctest.h - testing library
+
+
 The bulk of the assignment can be found here:
 
