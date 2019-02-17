@@ -1,0 +1,8 @@
+* Please fill out this section:
+** Name: 
+** GitHub username:
+
+* Lab 03
+
+The bulk of the assignment can be found here:
+
