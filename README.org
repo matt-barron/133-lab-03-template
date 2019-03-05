@@ -1,6 +1,6 @@
 * Please fill out this section:
-** Name: 
-** GitHub username:
+** Name: Matthew Barron
+** GitHub username:mattbarron0917
 
 * Lab 03
 
